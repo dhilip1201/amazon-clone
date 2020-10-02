@@ -6,6 +6,10 @@ import { useStateValue } from './StateProvider';
 function Orders() {
     const [{basket, user}, dispatch]=useStateValue();
     const [orders, setOrders] = useState([]);
+
+
+   
+
     useEffect(() => {
         if(user){
             db
@@ -26,6 +30,12 @@ function Orders() {
       
 
     }, [user])
+   
+
+  
+
+
+
     return (
         <div className="orders">
             <div className="orders__order">

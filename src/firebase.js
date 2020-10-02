@@ -1,14 +1,14 @@
 import firebase from 'firebase';
 
 const firebaseApp = firebase.initializeApp({
-    apiKey: "AIzaSyBFBB4-yKOvWsVOMmyspZQKjaqoZWUDKic",
-    authDomain: "dhilip-amazan-clone.firebaseapp.com",
-    databaseURL: "https://dhilip-amazan-clone.firebaseio.com",
-    projectId: "dhilip-amazan-clone",
-    storageBucket: "dhilip-amazan-clone.appspot.com",
-    messagingSenderId: "427522433779",
-    appId: "1:427522433779:web:213d9fcb185c70bafb0d86",
-    measurementId: "G-36KRB2Q6BB"
+    apiKey: "AIzaSyCk5WX8vdQ-XgOF4cW_MHmYY8fpMS2kAQ4",
+    authDomain: "dhilip-amazan-project.firebaseapp.com",
+    databaseURL: "https://dhilip-amazan-project.firebaseio.com",
+    projectId: "dhilip-amazan-project",
+    storageBucket: "dhilip-amazan-project.appspot.com",
+    messagingSenderId: "571879884950",
+    appId: "1:571879884950:web:671480e90dc11210f99ab7",
+    measurementId: "G-J7SQD99H0K"
 })
 const db = firebaseApp.firestore();
 const auth = firebase.auth();

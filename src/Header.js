@@ -25,7 +25,7 @@ function Header() {
             </div>
             <div className="header__github">
               {/* <img src="" alt=""/> */}
-              <a href="" target="_blank">
+              <a href="https://github.com/dhilip1201/amazon-clone" target="_blank">
               <GitHubIcon />GitHub
               </a>
             </div>

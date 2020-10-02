@@ -12,7 +12,7 @@ function Home() {
             
             <div className="home__row">
             <Product 
-            id="10000"
+            id="1"
             title="Vivo V17 (Glacier Ice, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers"
             price={1.50}
             rating={5}
@@ -20,7 +20,7 @@ function Home() {
             
             />
             <Product 
-            id="10001"
+            id="2"
             title="Daniel Klein Analog Black Dial Men's Watch-DK12229-1"
             price={20}
             rating={4}
@@ -30,7 +30,7 @@ function Home() {
             </div>
             <div className="home__row">
             <Product 
-            id="10002"
+            id="3"
             title="Turtle Beach Recon 150"
             price={7}
             rating={4}
@@ -38,7 +38,7 @@ function Home() {
             
             />
             <Product 
-            id="10003"
+            id="4"
             title="Van Heusen Men's Solid Regular Fit Polo"
             price={10}
             rating={4}
@@ -46,7 +46,7 @@ function Home() {
             
             />
             <Product 
-            id="10004"
+            id="5"
             title="Lapis O Lupo Women's Handbag"
             price={6}
             rating={3}
@@ -56,7 +56,7 @@ function Home() {
             </div>
             <div className="home__row">
             <Product 
-            id="10005"
+            id="6"
             title="Amazon Brand - Solimo 500 ml Large Vegetable Chopper with 3 Blades, Blue"
             price={3}
             rating={5}
